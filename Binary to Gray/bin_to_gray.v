@@ -1,4 +1,4 @@
-module bin_to_gray #(parameter N = 8)                   //parameter declaration
+module bin_to_gray #(parameter N = 16)                   //parameter declaration
                (
                binary                              ,//input
                gray                                 //output
