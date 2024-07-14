@@ -1,10 +1,10 @@
-module full_adder_1bit(
-                      i_a     ,  //input 
-                      i_b     ,  //input 
-                      i_cin   ,  //input 
-                      o_sum   ,  //output 
-                      o_carry    //output 
-                      )       ;
+module full_adder(
+                  i_a     ,  //input 
+                  i_b     ,  //input 
+                  i_cin   ,  //input 
+                  o_sum   ,  //output 
+                  o_carry    //output 
+                   )       ;
 
 //Port declaration
 
