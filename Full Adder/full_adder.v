@@ -4,7 +4,7 @@ module full_adder(
                   i_cin   ,  //input 
                   o_sum   ,  //output 
                   o_carry    //output 
-                   )       ;
+                  )       ;
 
 //Port declaration
 
