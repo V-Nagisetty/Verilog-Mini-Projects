@@ -1,5 +1,5 @@
 # Verilog-Mini-Projects
-Welcome! This repository contains my Verilog mini Projects
+#Welcome! This repository contains my Verilog mini Projects
  Content
 1. [4-bit full adder using Half Adder](https://github.com/V-Nagisetty/Verilog-Mini-Projects/tree/main/4-bit%20FA%20using%20HA)
 2. [4-bit counter](https://github.com/V-Nagisetty/Verilog-Mini-Projects/tree/main/4-bit%20counter)
